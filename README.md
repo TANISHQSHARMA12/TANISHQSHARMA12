@@ -1,6 +1,4 @@
-[## Hi there 👋](https://capsule-render.vercel.app/api?type=speech&height=250&color=gradient&text=Hi,%20I'm%20Tanishq%20👋&textBg=false)
 
-<!--
 **TANISHQSHARMA12/TANISHQSHARMA12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
