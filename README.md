@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/tanishq-sharma16"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/TANISHQSHARMA12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://leetcode.com/u/X0quBGYGTi"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
   <a href="mailto:tanishqsharma8852848448@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -76,7 +77,26 @@
 
 - 🧩 Solved **150+ DSA problems** on LeetCode & GeeksforGeeks
 - 🥈 **Semifinalist** in the college-level hackathon at GEC Ajmer
-- 💡 **Qualified the college-level round** of Smart India Hackathon (SIH)
+- 💡 **Qualified the college-level round** of Smart India Hackathon (SIH) 2024
+
+---
+
+## 📜 Certificates
+
+View all my certificates on LinkedIn:
+**[linkedin.com/in/tanishq-sharma16 → Licenses & Certifications](https://www.linkedin.com/in/tanishq-sharma16/details/certifications/)**
+
+| Certificate | Issued By | Link |
+|---|---|---|
+| Data Engineering on AWS – Foundations | Amazon Web Services (AWS) | [View](https://www.linkedin.com/in/tanishq-sharma16/details/certifications/) |
+| Introduction to Data Science | Cisco Networking Academy | [View](https://www.linkedin.com/in/tanishq-sharma16/details/certifications/) |
+| Data Analytics Essentials | Cisco Networking Academy | [View](https://www.linkedin.com/in/tanishq-sharma16/details/certifications/) |
+| Full Stack Developer Internship | Acmegrade | [View](https://www.linkedin.com/in/tanishq-sharma16/details/certifications/) |
+
+---|---|---|
+| Full Stack Developer Internship | Acmegrade | [View](https://www.linkedin.com/in/tanishq-sharma16/details/certifications/) |
+| *Add your certificate name* | *Issuer* | [View](https://www.linkedin.com/in/tanishq-sharma16/details/certifications/) |
+| *Add your certificate name* | *Issuer* | [View](https://www.linkedin.com/in/tanishq-sharma16/details/certifications/) |
 
 ---
 
